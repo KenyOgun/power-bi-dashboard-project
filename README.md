@@ -1,4 +1,4 @@
-# The Situation
+## The Situation
 
 You have just been hired by Adventure Works Cycles, a global manufacturing company, to design and deliver an end-to-end business intelligence solution - from scratch.
 
